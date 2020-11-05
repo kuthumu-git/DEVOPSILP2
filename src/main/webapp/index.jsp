@@ -53,7 +53,7 @@
     <body>
         <h1>Hello!</h1>
         
-          <form action="Welcome" method="post">
+          <form action="Welcome Heroku" method="post">
               <div class="container">
 
                 <label><b>First Name</b></label>
